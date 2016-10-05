@@ -1,0 +1,11 @@
+/.vscode/
+/node_modules/
+/src/
+/typings/
+/LICENSE.txt/
+/package.json/
+/README.md/
+/tsconfig.json/
+/typings.json/
+/webpack.config.js/
+/.idea/
